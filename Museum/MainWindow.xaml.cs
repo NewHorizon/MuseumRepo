@@ -23,5 +23,7 @@ namespace Museum
         {
             InitializeComponent();
         }
+
+        private int Test { get; set; }
     }
 }
