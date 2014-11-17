@@ -7,6 +7,6 @@ namespace Museum
 {
     class Test
     {
-        private string wanderaa { get; set; }
+        private string wanderaaakkk { get; set; }
     }
 }
