@@ -9,21 +9,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Museum
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Shell.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Shell : Window
     {
-        public MainWindow()
+        public Shell()
         {
             InitializeComponent();
         }
-
-        private int Test { get; set; }
     }
 }
